@@ -5,7 +5,7 @@ ctx.fillColor = 'red'
 
 function draw(x,y) {
     const circle = new Path2D();
-    circle.arc(x, y, 10, 0, 2 * Math.PI);
+    circle.arc(x, y, 8, 0, 2 * Math.PI);
     ctx.fill(circle)
 }
 
