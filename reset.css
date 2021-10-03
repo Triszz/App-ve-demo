@@ -18,7 +18,7 @@ body {
 }
 .control .color-picker {
     width: 100px;
-    height: 100px;
+    height: 60px;
     cursor: pointer;
 }
 #draw {
